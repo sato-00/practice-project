@@ -7,7 +7,7 @@ public class Introduce2 {
 		selfIntroduce("山田", 25);
 	}
 
-	public static void selfIntroduce(String 名前, int 年齢) {
-		System.out.println("私の名前は" + 名前 + "です。年齢は" + 年齢 + "歳です。");
+	public static void selfIntroduce(String name, int age) {
+		System.out.println("私の名前は" + name + "です。年齢は" + age + "歳です。");
 	}
 }
