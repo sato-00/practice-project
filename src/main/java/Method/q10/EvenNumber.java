@@ -15,6 +15,7 @@ public class EvenNumber {
 			if (array[i] % 2 == 0) {
 				count++;
 			}
+			
 		}
 		return count;
 	}

@@ -10,7 +10,7 @@ public class ListSample {
 		List<String> strList = new ArrayList<String>();
 		strList.add("角谷");
 		System.out.println(strList.get(0));
-		List <Integger> integerList = new ArrayList;
+//		List <Integger> integerList = new ArrayList;
 
 	}
 	
